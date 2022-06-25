@@ -1,3 +1,4 @@
+# Exp no: 10
 # Implementation-of-Erosion-and-Dilation
 ## Aim
 To implement Erosion and Dilation using Python and OpenCV.
